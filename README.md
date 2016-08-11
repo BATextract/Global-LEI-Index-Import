@@ -1,0 +1,2 @@
+# Global-LEI-Index-Import
+The Global Legal Entity Identifier Foundation (GLEIF) publishes daily an updated ‘Concatenated File’, which includes all Legal Entity Identifiers (LEIs) issued globally and related LEI reference data published by LEI issuing organizations compliant with the Common Data File (CDF) Format.  The development team will attempt to integrate this file in to an in house database.
